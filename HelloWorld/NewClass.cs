@@ -8,5 +8,7 @@ namespace HelloWorld
 {
     class NewClass
     {
+        //dodana 2.metoda
+        void metoda2(){}
     }
 }
