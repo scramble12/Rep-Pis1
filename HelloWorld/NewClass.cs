@@ -9,7 +9,7 @@ namespace HelloWorld
     class NewClass
     {
 
-        void metoda02(){}
+        void metoda2(){}
 
     }
 }
